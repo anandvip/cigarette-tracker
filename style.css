@@ -8,11 +8,11 @@ h1 {
 }
 
 button {
-	font-size:rem;
+	font-size: 15rem;
 	padding: 10px;
 	margin: 20px;
 	border-radius: 5px;
-	background-17color: #4CAF50;
+	background-color: #4CAF50;
 	color: white;
 	border: none;
 	cursor: pointer;
